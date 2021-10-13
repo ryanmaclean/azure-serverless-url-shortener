@@ -88,4 +88,4 @@ Navigate to [http://localhost:8888](http://localhost:8888) to run the app.
 
 Choose whether or not to add the configured source and redirect to the various mediums, then paste the long URL and tap "Shorten" to generate the short URLs.
 
-Follw me on Twitter: [@JeremyLikness](https://twitter.com/JeremyLikness)
+Follw Jeremy on Twitter: [@JeremyLikness](https://twitter.com/JeremyLikness)
